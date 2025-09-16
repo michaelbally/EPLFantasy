@@ -8,7 +8,6 @@
 <ul>Jonathan Kane: Simple one-for-one move — Cherki out, Rice in. Adds solidity to the midfield.</ul>
 <ul>Simon Edwards: No transfers made. Standing firm for now.</ul>
 <ul>Joel Xavier: The busiest in the market. Four players out (Cunha, Nouri, Acheampong, Saka) and four in (Chalobah, Grealish, Timber, Odegaard). A major reshuffle signalling dissatisfaction with recent performances.</ul>
-<a href="https://fantasy.premierleague.com/statistics/transfers_in_event">global transfers</a>
 
 <h2>⭐ Top Performing Picks (GW4)</h2>
 <ul>Semenyo – 13 pts 🥇</ul>
@@ -51,3 +50,7 @@
 <ol>7️⃣ Michael Ball – Budget Ballers: 43 pts, 167 total. </ol>
  
 <img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/4cb3a2ac-47a7-43f2-9ea2-0b1342820268" />
+
+<h2>📈 Manager Resource Hub</h2>
+<a href="https://fantasy.premierleague.com/fixtures">fixtures</a>
+<a href="https://fantasy.premierleague.com/statistics/transfers_in_event">global transfers</a>
