@@ -8,6 +8,12 @@
 <ul>Jonathan Kane: Simple one-for-one move — Cherki out, Rice in. Adds solidity to the midfield.</ul>
 <ul>Simon Edwards: No transfers made. Standing firm for now.</ul>
 <ul>Joel Xavier: The busiest in the market. Four players out (Cunha, Nouri, Acheampong, Saka) and four in (Chalobah, Grealish, Timber, Odegaard). A major reshuffle signalling dissatisfaction with recent performances.</ul>
+
+<h2>⭐ Top Performing Picks (GW4)</h2>
+<ul>Semenyo – 13 pts 🥇</ul>
+<ul>Haaland – 13 pts 🥇</ul>
+<ul>Romero – 12 pts</ul>
+<ul>Andersen - 10 pts</ul>
  
 <h2>📰 Manager Headlines</h2>
 <ul>🏰 Jonathan Kane (Real Moat, 53 pts, 1st – 233 total)</ul>
@@ -30,12 +36,6 @@
 <ul>Down: Michael Desmond (−3, 3rd → 6th)</ul>
 
 <img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/fcd0de68-c753-44e3-b64a-c9e51d8764a0" />
-
-<h2>⭐ Top Performing Picks (GW4)</h2>
-<ul>Semenyo – 13 pts 🥇</ul>
-<ul>Haaland – 13 pts 🥇</ul>
-<ul>Romero – 12 pts</ul>
-<ul>Andersen - 10 pts</ul>
 
 <h2>📈 Season Tracker (after GW4)</h2>
 <ul>Highest weekly score so far: John Stanley – 69 pts (GW4)</ul>
