@@ -1,4 +1,13 @@
 ﻿<h1>📊 Gameweek 4 Report</h1>
+
+<h2>🔄 Transfer Watch</h2>
+<ul>Michael Ball: Swapped out Wissa for Evanilson. A direct forward replacement — clearly seeking a more reliable source of goals.</ul>
+<ul>Michael Desmond: Two players out (Cunha, Aina) and two in (Livramento, Mbeumo). Strengthened both defence and attack, suggesting a push for more balance.</ul>
+<ul>Daniel Dring: Made defensive and midfield changes, moving out Cherki and Gvardiol for Calafiori and Tavernier. Looks like a bid for more stability at the back and creativity going forward.</ul>
+<ul>John Stanley: No transfers this week. Kept faith with his existing squad.</ul>
+<ul>Jonathan Kane: Simple one-for-one move — Cherki out, Rice in. Adds solidity to the midfield.</ul>
+<ul>Simon Edwards: No transfers made. Standing firm for now.</ul>
+<ul>Joel Xavier: The busiest in the market. Four players out (Cunha, Nouri, Acheampong, Saka) and four in (Chalobah, Grealish, Timber, Odegaard). A major reshuffle signalling dissatisfaction with recent performances.</ul>
  
 <h2>📰 Manager Headlines</h2>
 <ul>🏰 Jonathan Kane (Real Moat, 53 pts, 1st – 233 total)</ul>
@@ -16,24 +25,17 @@
 <ul>💸 Michael Ball (Budget Ballers, 43 pts, 7th – 167 total)</ul>
 <ul>Ball’s thrifty squad managed 43 points, but he remains bottom. Asked about spending, he snapped: “I don’t waste money like the rest of them.” Players allegedly trained with cones made of upturned milk bottles, and one was spotted wearing mismatched boots. Rivals mocked: “He’s running a car boot sale, not a football club.” Ball stormed out of his interview after being asked if he’s the “Aldi Ancelotti.” 💷🥾🛒</ul>
 
-<h2>🔄 Transfer Watch</h2>
-<ul>Michael Ball: Swapped out Wissa for Evanilson. A direct forward replacement — clearly seeking a more reliable source of goals.</ul>
-<ul>Michael Desmond: Two players out (Cunha, Aina) and two in (Livramento, Mbeumo). Strengthened both defence and attack, suggesting a push for more balance.</ul>
-<ul>Daniel Dring: Made defensive and midfield changes, moving out Cherki and Gvardiol for Calafiori and Tavernier. Looks like a bid for more stability at the back and creativity going forward.</ul>
-<ul>John Stanley: No transfers this week. Kept faith with his existing squad.</ul>
-<ul>Jonathan Kane: Simple one-for-one move — Cherki out, Rice in. Adds solidity to the midfield.</ul>
-<ul>Simon Edwards: No transfers made. Standing firm for now.</ul>
-<ul>Joel Xavier: The busiest in the market. Four players out (Cunha, Nouri, Acheampong, Saka) and four in (Chalobah, Grealish, Timber, Odegaard). A major reshuffle signalling dissatisfaction with recent performances.</ul>
+<h2>⚔️ This week’s big movers:</h2>
+<ul>Up: Simon Edwards (+3, 7th → 4th)</ul>
+<ul>Down: Michael Desmond (−3, 3rd → 6th)</ul>
+
+<img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/fcd0de68-c753-44e3-b64a-c9e51d8764a0" />
 
 <h2>⭐ Top Performing Picks (GW4)</h2>
 <ul>Semenyo – 13 pts 🥇</ul>
 <ul>Haaland – 13 pts 🥇</ul>
 <ul>Romero – 12 pts</ul>
 <ul>Andersen - 10 pts</ul>
-
-<h2>⚔️ This week’s big movers:</h2>
-<ul>Up: Simon Edwards (+3, 7th → 4th)</ul>
-<ul>Down: Michael Desmond (−3, 3rd → 6th)</ul>
 
 <h2>📈 Season Tracker (after GW4)</h2>
 <ul>Highest weekly score so far: John Stanley – 69 pts (GW4)</ul>
@@ -47,4 +49,8 @@
 <ol>6️⃣ Michael Desmond – Cunha Get Any Worse: Just 42 pts, 173 total. </ol>
 <ol>7️⃣ Michael Ball – Budget Ballers: 43 pts, 167 total. </ol>
  
+<img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/4cb3a2ac-47a7-43f2-9ea2-0b1342820268" />
+
+
+
 
