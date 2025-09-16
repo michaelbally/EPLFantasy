@@ -1,4 +1,5 @@
 ﻿<h1>📊 Gameweek 4 Report</h1>
+- [previous reports](readme.md)
 
 <h2>🔄 Transfer Watch</h2>
 <ul>Michael Ball: Swapped out Wissa for Evanilson. A direct forward replacement — clearly seeking a more reliable source of goals.</ul>
