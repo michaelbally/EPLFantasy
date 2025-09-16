@@ -1,3 +1,1 @@
-- [Introduction](intro.md)
-- [Methods](methods.md)
-- [GW4](GW4.md)
+- [Gameweek 4](GW4.md)
