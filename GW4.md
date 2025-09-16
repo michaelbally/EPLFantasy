@@ -35,7 +35,7 @@ Andersen - 10 pts</p>
 <p>Up: Simon Edwards (+3, 7th → 4th)<br>
 Down: Michael Desmond (−3, 3rd → 6th)<p>
 
-<img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/fcd0de68-c753-44e3-b64a-c9e51d8764a0" />
+<img width="752" height="585" alt="image" src="https://github.com/user-attachments/assets/8d71bb62-4aea-48b2-b644-d63d223c8643" />
 
 <h2>📈 Season Tracker (after GW4)</h2>
 <ul>Highest weekly score so far: John Stanley – 69 pts (GW4)</ul>
@@ -50,8 +50,9 @@ Down: Michael Desmond (−3, 3rd → 6th)<p>
 <ol>7️⃣ Michael Ball – Budget Ballers: 43 pts, 167 total. </ol>
 <a href="https://fantasy.premierleague.com/leagues/510938/standings/c">table</a><br>
  
-<img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/4cb3a2ac-47a7-43f2-9ea2-0b1342820268" />
+<img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/ee0a23c5-7011-49e4-a7f7-902e0b76ff47" />
 
 <h2>📈 Manager Resource Hub</h2>
 <a href="https://fantasy.premierleague.com/fixtures">fixtures</a><br>
-<a href="https://fantasy.premierleague.com/statistics/transfers_in_event">global transfers</a>
+<a href="https://fantasy.premierleague.com/statistics/transfers_in_event">global transfers in</a><br>
+<a href="https://fantasy.premierleague.com/team-of-the-week/4">team of the week</a>
