@@ -1,5 +1,6 @@
 ﻿<h1>📊 Gameweek 4 Report</h1>
-- [previous reports](readme.md)
+
+<a href="https://michaelbally.github.io/EPLFantasy/">previous gameweeks</a><br>
 
 <h2>🔄 Transfer Watch</h2>
 <ul>Michael Ball: Swapped out Wissa for Evanilson. A direct forward replacement — clearly seeking a more reliable source of goals.</ul>
@@ -10,12 +11,6 @@
 <ul>Simon Edwards: No transfers made. Standing firm for now.</ul>
 <ul>Joel Xavier: The busiest in the market. Four players out (Cunha, Nouri, Acheampong, Saka) and four in (Chalobah, Grealish, Timber, Odegaard). A major reshuffle signalling dissatisfaction with recent performances.</ul>
 
-<h2>⭐ Top Performing Picks (GW4)</h2>
-<p>Semenyo – 13 pts 🥇<br>
-Haaland – 13 pts 🥇<br>
-Romero – 12 pts<br>
-Andersen - 10 pts</p>
- 
 <h2>📰 Manager Headlines</h2>
 <h3>🏰 Jonathan Kane (Real Moat, 53 pts, 1st – 233 total)</h3>
 <div>The king still sits atop his castle, but whispers say the moat is showing cracks. Kane scored 53 and kept his crown, but rivals are circling. Reporters grilled him about his Dubai “scouting trip,” and he snapped: “It’s called networking — not a holiday!” One rival manager joked: “If he’s not careful, we’ll storm that drawbridge with inflatable flamingos.” Kane smirked and left the presser early, sunglasses on indoors. 🏝️🛡️😎</div>
@@ -31,6 +26,12 @@ Andersen - 10 pts</p>
 <div>A brutal week — just 42 points and a three-place plummet. Desmond erupted post-match, slamming his fist on the table and shouting: “I don’t collapse, I regroup!” before storming off. Dressing-room leaks suggest senior players staged a mutiny over his constant league-table lectures. One insider quipped: “He’s less a manager, more a motivational speaker — and not a good one.” Rivals gleefully piled on, chanting: “Cunha get any worse?” 📉💥🙈</div>
 <h3>💸 Michael Ball (Budget Ballers, 43 pts, 7th – 167 total)</h3>
 <div>Ball’s thrifty squad managed 43 points, but he remains bottom. Asked about spending, he snapped: “I don’t waste money like the rest of them.” Players allegedly trained with cones made of upturned milk bottles, and one was spotted wearing mismatched boots. Rivals mocked: “He’s running a car boot sale, not a football club.” Ball stormed out of his interview after being asked if he’s the “Aldi Ancelotti.” 💷🥾🛒</div>
+
+<h2>⭐ Top Performing Picks (GW4)</h2>
+<p>Semenyo – 13 pts 🥇<br>
+Haaland – 13 pts 🥇<br>
+Romero – 12 pts<br>
+Andersen - 10 pts</p>
 
 <h2>⚔️ This week’s big movers:</h2>
 <p>Up: Simon Edwards (+3, 7th → 4th)<br>
