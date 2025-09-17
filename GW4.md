@@ -13,10 +13,13 @@
 
 <h2>📰 Manager Headlines</h2>
 <h3>🏰 Jonathan Kane (Real Moat, 53 pts, 1st – 233 total)</h3>
+<img height="300" alt="manager-jonny" src="https://github.com/user-attachments/assets/1283090c-e25f-43a6-a86b-e7154ad0f212" />
 <div>The king still sits atop his castle, but whispers say the moat is showing cracks. Kane scored 53 and kept his crown, but rivals are circling. Reporters grilled him about his Dubai “scouting trip,” and he snapped: “It’s called networking — not a holiday!” One rival manager joked: “If he’s not careful, we’ll storm that drawbridge with inflatable flamingos.” Kane smirked and left the presser early, sunglasses on indoors. 🏝️🛡️😎</div>
 <h3>🔥 Daniel Dring (Burn Baby Burn, 61 pts, 2nd – 225 total)</h3>
+<img height="300" alt="manager-dring" src="https://github.com/user-attachments/assets/424fba89-999a-413a-9384-8ef9dc1917e3" />
 <div>Dring’s Toon-fuelled army racked up 61 points, and he’s not hiding the fight. On the touchline he was caught yelling: “Kane’s castle is cardboard!” before booting a water bottle into the stands. He accused referees of “southern bias” and refused to shake hands post-match. When asked if he respected Kane’s lead, Dring snarled: “Respect? He’s building sandcastles while I’m torching fortresses.” The Geordie war drums are banging louder than ever. ⚫⚪🔥🥁</div>
 <h3>✈️ John Stanley (Flying High Again, 69 pts, 3rd – 201 total)</h3>
+<img height="300" alt="manager-stanley" src="https://github.com/user-attachments/assets/f506bdd2-c979-4c1d-8051-192f19320f5f" />
 <div>Stanley hit a league-best 69 points and swaggered into the press room waving a baby bottle. “Sleep deprivation makes you dangerous,” he declared, before pointing at Desmond’s seat: “That’s what collapse looks like.” His players reportedly formed a guard of honour for his buggy at training. Rival managers rolled their eyes, but the chant of the week came from his dressing room: “Cry, feed, win, repeat!” 👶✈️💪</div>
 <h3>🤯 Simon Edwards (Chuna believe it, 55 pts, 4th – 178 total)</h3>
 <div>What a comeback — Edwards stormed from 7th to 4th with 55 points and chaos followed. At his presser he arrived dripping wet, blaming sprinklers triggered during “celebratory fireworks.” He pointed fingers at Ball and Desmond: “You laughed when I was bottom — Chuna believe it now?” Security had to separate him from reporters after he accused one of being on Kane’s payroll. Rival managers say he’s unhinged — and loving it. 🚿🔥📈</div>
