@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
  <h1>📊 Gameweek 4 Report</h1>
 
 <a href="https://michaelbally.github.io/EPLFantasy/">previous gameweeks</a><br>
