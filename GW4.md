@@ -1,7 +1,8 @@
+<html>
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
-
+<body>
  <h1>📊 Gameweek 4 Report</h1>
 
 <a href="https://michaelbally.github.io/EPLFantasy/">previous gameweeks</a><br>
@@ -75,6 +76,9 @@ Down: Michael Desmond (−3, 3rd → 6th)<p>
  
 <img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/ee0a23c5-7011-49e4-a7f7-902e0b76ff47" />
 
+
 <h2>Links</h2>
 <a href="https://fantasy.premierleague.com/fixtures">Next GW Fixtures</a><br>
 <a href="https://fantasy.premierleague.com/leagues/510938/standings/c">EPL Fantasy Table</a><br>
+</body>
+</html>
