@@ -1,10 +1,12 @@
     <style type="text/css">
         body { background: #541e5d; }
 /* 		h1 { color: blue; }*/
-        p { color: white; } 
+        p { color: white;
+          font-family: Arial, Helvetica, sans-serif;} 
         h1 { color: white; } 
         h2 { color: white; } 
         h3 { color: white; } 
         h4 { color: white; } 
         ul { color: white; } 
+
     </style>
