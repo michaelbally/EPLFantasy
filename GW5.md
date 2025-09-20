@@ -3,9 +3,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
- <h1>📊 Gameweek 4 Report</h1>
+ <h1>📊 Gameweek 5</h1>
 
-<a href="https://michaelbally.github.io/EPLFantasy/">previous gameweeks</a><br>
+<a href="https://michaelbally.github.io/EPLFantasy/">Previous Gameweeks</a><br>
 
 <h2>📰 Team Headlines</h2>
 <h3>🏰 Jonathan Kane (Real Moat, 53 pts, 1st – 233 total)</h3>
