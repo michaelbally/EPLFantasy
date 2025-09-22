@@ -8,51 +8,51 @@
 <a href="https://michaelbally.github.io/EPLFantasy/">Previous Gameweeks</a><br>
 
 <h2>📰 Team Headlines</h2>
-<h3>🏰 Jonathan Kane - Real Moat</h3>
-<img height="300" alt="manager-jonny" src="https://github.com/user-attachments/assets/1283090c-e25f-43a6-a86b-e7154ad0f212" />
-<h4>Transfers</h4>
-<p>in: Simons<br>out: Fernandes</p>
-<p></p>
-
 <h3>🔥 Daniel Dring - Burn Baby Burn</h3>
 <img height="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
 <h4>Transfers</h4>
 <p>in: -<br>out: -</p>
-<p></p>
+<p>Dring stormed the touchline after clinching top spot, waving a black-and-white scarf and shouting: “This is what St. James’ Park feels like every weekend!” Rivals complained of smoke machines being tested during training, but Dring insists it’s “just atmosphere.” Kane was seen muttering that the disco balls are “unsporting distractions.”</p>
+
+<h3>🏰 Jonathan Kane - Real Moat</h3>
+<img height="300" alt="manager-jonny" src="https://github.com/user-attachments/assets/1283090c-e25f-43a6-a86b-e7154ad0f212" />
+<h4>Transfers</h4>
+<p>in: Simons<br>out: Fernandes</p>
+<p>Moat walls are crumbling. After his meagre 19-point haul, Kane appeared in a tense post-match presser, snapping at reporters: “Even fortresses need renovations. You don’t rebuild a castle overnight.” Sources in Dubai claim he’s been drawing siege diagrams on whiteboards while students are left unattended.</p>
 
 <h3>✈️ John Stanley - Flying High Again</h3>
 <img height="300" alt="manager-stanley1" src="https://github.com/user-attachments/assets/0a294cd6-4939-4dd8-93ea-5764d6366aa8" />
 <h4>Transfers</h4>
 <p>in: -<br>out: -</p>
-<p></p>
-
-<h3>🤯 Simon Edwards - Chuna believe it</h3>
-<img height="300" alt="manager-simon" src="https://github.com/user-attachments/assets/412e4d44-13e6-4c90-b147-2f2d0ce0eb00" />
-<h4>Transfers</h4>
-<p>in: Woltemade, Semenyo, Caicedo, Guéhi<br>out: Barnes, Cunha, Saka, Aït-Nouri</p>
-<p></p>
+<p>The Flying High Again dressing room looks more like a rock tour bus — guitars, baby monitors, and spilled beer everywhere. Stanley admitted he hasn’t slept since Friday: “The amps are still plugged in, the baby’s still crying, and somehow the points keep ticking.” Ozzy Osbourne was reportedly spotted at training, screaming “MORE SUBS, MORE SUBS!”</p>
 
 <h3>🍖 Joel Xavier - K-BBQ FC</h3>
 <img height="300" alt="manager-joel1-cropped" src="https://github.com/user-attachments/assets/16dcc0db-0210-41e2-8dbf-eff732441b1b" />
 <h4>Transfers</h4>
 <p>in: Semenyo, Guéhi<br>out: Traorè, Aina</p>
-<p></p>
+<p>Xavier grilled his way to the week’s top score (64) and now his BBQ pit is billowing smoke across the league. Eyewitnesses saw him frantically tinkering at the grill mid-match, flipping players like kebabs: “One more transfer, lads, one more and we’re perfect.” Rivals say the smoke is choking them — but Xavier insists it’s “just flavour.”</p>
+
+<h3>🤯 Simon Edwards - Chuna believe it</h3>
+<img height="300" alt="manager-simon" src="https://github.com/user-attachments/assets/412e4d44-13e6-4c90-b147-2f2d0ce0eb00" />
+<h4>Transfers</h4>
+<p>in: Woltemade, Semenyo, Caicedo, Guéhi<br>out: Barnes, Cunha, Saka, Aït-Nouri</p>
+<p>Edwards arrived late to his press conference, claiming he was “stuck in a LinkedIn webinar.” He rambled about Iron Maiden’s bass tones before declaring: “We’re still cooking, just wait until I list the squad on eBay.” Critics call his team chaotic, but he insists it’s “structured improvisation.”</p>
 
 <h3>💀 Michael Desmond - Cunha Get Any Worse</h3>
 <img height="300" alt="manager-dez1" src="https://github.com/user-attachments/assets/1820eb06-dcd9-4fbf-a43b-857dba782719" />
 <h4>Transfers</h4>
 <p>in: Tonali<br>out: Tielemans</p>
-<p></p>
+<p>Desmond, last year’s silent assassin, looked uncharacteristically smug after 56 points. With dogs barking in the background, he coolly remarked: “Sharks don’t talk — they bite.” Rumours suggest he’s been spinning vinyls of Jaws soundtracks at training to intimidate rivals. Kane was overheard saying: “He’s circling the moat.”</p>
 
 <h3>💸 Michael Ball - Budget Ballers</h3>
 <img height="300" alt="manager-me" src="https://github.com/user-attachments/assets/af91e5b9-0cce-4ae8-bb22-33c45ed31997" />
 <h4>Transfers</h4>
 <p>in: Nascimento Rodrigues, Caicedo, Henderson, Lacroix, Pino Santos, Tarkowski, Szoboszlai, Foden, Donnarumma, Burn, Bowen<br>out: De Cuyper, James, Mateta, Leno, Kerkez, Gakpo, Cunha, Gordon, Vicario, Johnson, Strand Larsen</p>
-<p></p>
+<p>The bargain-bin gaffer trudged into interviews clutching a Lidl bag-for-life. Asked about his 41 points, Ball replied: “Every penny counts. You’ll all laugh until I’ve stacked enough coupons for Haaland.” Insiders claim he’s patching up players with duct tape and “buy one get one free” physio sessions. Rivals chuckle, but the receipts keep coming.</p>
 
 <h2>📈 Stat Tracker</h2>
 <ul>Highest weekly score so far: John Stanley – 69 pts (GW4)</ul>
-<img width="752" height="585" alt="image" src="https://github.com/user-attachments/assets/8d71bb62-4aea-48b2-b644-d63d223c8643" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/974094e1-9be6-4ab1-a8f1-df2add8aed3f" />
 
 <h2>⭐ Top Performing League Picks (GW4)</h2>
 <p>Semenyo – 13 pts 🥇<br>
@@ -65,15 +65,15 @@ Andersen - 10 pts</p>
 Down: Michael Desmond (−3, 3rd → 6th)<p>
 
 <h2>📊 Standings Recap (GW4)</h2>
-<ol>1️⃣ Jonathan Kane – Real Moat: 53 pts this GW, 233 total. </ol>
-<ol>2️⃣ Daniel Dring – Burn Baby Burn: 61 pts, 225 total. </ol>
-<ol>3️⃣ John Stanley – Flying High Again: Huge 69 pts, 201 total. </ol>
-<ol>4️⃣ Simon Edwards – Chuna believe it: 55 pts, 178 total. </ol>
-<ol>5️⃣ Joel Xavier – K-BBQ FC: 59 pts, 177 total. </ol>
-<ol>6️⃣ Michael Desmond – Cunha Get Any Worse: Just 42 pts, 173 total. </ol>
-<ol>7️⃣ Michael Ball – Budget Ballers: 43 pts, 167 total. </ol>
+<p>1️⃣ Daniel Dring — 40 GW pts — 265 total ⬆️<br>
+2️⃣ Jonathan Kane — 19 GW pts — 252 total ⬇️<br>
+3️⃣ John Stanley — 36 GW pts — 237 total ➡️<br>
+4️⃣ Joel Xavier — 64 GW pts — 237 total ⬆️<br>
+5️⃣ Simon Edwards — 53 GW pts — 231 total ⬇️<br>
+6️⃣ Michael Desmond — 56 GW pts — 229 total ➡️<br>
+7️⃣ Michael Ball — 41 GW pts — 208 total ➡️</p>
 
-<img width="748" height="452" alt="image" src="https://github.com/user-attachments/assets/ee0a23c5-7011-49e4-a7f7-902e0b76ff47" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/ec9faa7f-62e0-4088-965a-67a30cfdb5f3" />
 
 <h2>Links</h2>
 <a href="https://fantasy.premierleague.com/fixtures">Next GW Fixtures</a><br>
