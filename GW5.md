@@ -55,10 +55,10 @@
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/974094e1-9be6-4ab1-a8f1-df2add8aed3f" />
 
 <h2>⭐ Top Performing League Picks (GW4)</h2>
-<p>Semenyo – 13 pts 🥇<br>
-Haaland – 13 pts 🥇<br>
-Romero – 12 pts<br>
-Andersen - 10 pts</p>
+<p>Unique player picks: 73
+Fernandes: 10 pts 🥇<br>
+Reijnders/Haaland/Burn/Bowen: 9 pts 🥇<br>
+Chalobah/Ekitiké: 8 pts</p>
 
 <h2>⚔️ This week’s big movers:</h2>
 <p>Up: Simon Edwards (+3, 7th → 4th)<br>
