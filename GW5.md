@@ -54,7 +54,7 @@
 <img width="660" height="592" alt="image" src="https://github.com/user-attachments/assets/232dff42-4e8a-49ac-953f-8fa398c63330" />
 
 <h2>⭐ Top Performing League Picks (GW4)</h2>
-<p>Unique player picks: 73
+<p>Unique player picks: 73<br>
 Fernandes: 10 pts 🥇<br>
 Reijnders/Haaland/Burn/Bowen: 9 pts 🥇<br>
 Chalobah/Ekitiké: 8 pts</p>
