@@ -53,13 +53,13 @@
 <h2>Season Points Tracker</h2>
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/52fe36a1-a73f-4d2d-a70f-80c0e71e5483" />
 
-<h2>⭐ Top Performing League Picks (GW4)</h2>
+<h2>⭐ Top Performing League Picks</h2>
 <p>Unique player picks: 73<br>
 Fernandes: 10 pts 🥇<br>
 Reijnders/Haaland/Burn/Bowen: 9 pts<br>
 Chalobah/Ekitiké: 8 pts</p>
 
-<h2>📊 Standings Recap (GW4)</h2>
+<h2>📊 Standings Recap</h2>
 <p>1️⃣ Daniel Dring — 40 GW pts — 265 total ⬆️<br>
 2️⃣ Jonathan Kane — 19 GW pts — 252 total ⬇️<br>
 3️⃣ John Stanley — 36 GW pts — 237 total ➡️<br>
