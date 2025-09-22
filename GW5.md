@@ -47,7 +47,7 @@
 <h3>💸 Michael Ball - Budget Ballers</h3>
 <img height="300" alt="manager-me" src="https://github.com/user-attachments/assets/af91e5b9-0cce-4ae8-bb22-33c45ed31997" />
 <h4>Transfers</h4>
-<p>in: Nascimento Rodrigues, Caicedo, Henderson, Lacroix, Pino Santos, Tarkowski, Szoboszlai, Foden, Donnarumma, Burn, Bowen<br>out: De Cuyper, James, Mateta, Leno, Kerkez, Gakpo, Cunha, Gordon, Vicario, Johnson, Strand Larsen</p>
+<p>in: Thiago, Caicedo, Henderson, Lacroix, Pino Santos, Tarkowski, Szoboszlai, Foden, Donnarumma, Burn, Bowen<br>out: De Cuyper, James, Mateta, Leno, Kerkez, Gakpo, Cunha, Gordon, Vicario, Johnson, Strand Larsen</p>
 <p>Another week scraping the coupon drawer, Ball’s 41 points kept him firmly in the bargain bin. Reports claim his squad meeting was held in an Aldi car park, with tactics sketched on the back of a Lidl receipt. “We’re value for money,” he insisted, pointing to his pound-shop whiteboard. Rivals mock his duct-tape solutions, but Ball remains defiant: “Who needs luxury signings when you’ve got buy-one-get-one-free passion?” The Budget Ballers might not shine, but they’re never over budget.</p>
 
 <h2>Season Points Tracker</h2>
