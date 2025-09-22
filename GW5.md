@@ -50,6 +50,7 @@
 <p>in: Nascimento Rodrigues, Caicedo, Henderson, Lacroix, Pino Santos, Tarkowski, Szoboszlai, Foden, Donnarumma, Burn, Bowen<br>out: De Cuyper, James, Mateta, Leno, Kerkez, Gakpo, Cunha, Gordon, Vicario, Johnson, Strand Larsen</p>
 <p>Another week scraping the coupon drawer, Ball’s 41 points kept him firmly in the bargain bin. Reports claim his squad meeting was held in an Aldi car park, with tactics sketched on the back of a Lidl receipt. “We’re value for money,” he insisted, pointing to his pound-shop whiteboard. Rivals mock his duct-tape solutions, but Ball remains defiant: “Who needs luxury signings when you’ve got buy-one-get-one-free passion?” The Budget Ballers might not shine, but they’re never over budget.</p>
 
+<h2>Season Points Tracker</h2>
 <img width="660" height="592" alt="image" src="https://github.com/user-attachments/assets/232dff42-4e8a-49ac-953f-8fa398c63330" />
 
 <h2>⭐ Top Performing League Picks (GW4)</h2>
@@ -57,10 +58,6 @@
 Fernandes: 10 pts 🥇<br>
 Reijnders/Haaland/Burn/Bowen: 9 pts 🥇<br>
 Chalobah/Ekitiké: 8 pts</p>
-
-<h2>⚔️ This week’s big movers:</h2>
-<p>Up: Simon Edwards (+3, 7th → 4th)<br>
-Down: Michael Desmond (−3, 3rd → 6th)<p>
 
 <h2>📊 Standings Recap (GW4)</h2>
 <p>1️⃣ Daniel Dring — 40 GW pts — 265 total ⬆️<br>
