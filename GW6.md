@@ -3,6 +3,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div>
  <h1>📊 Gameweek 5</h1>
 
 <a href="https://michaelbally.github.io/EPLFantasy/">Previous Gameweeks</a><br>
@@ -73,5 +74,6 @@ Chalobah/Ekitiké: 8 pts</p>
 <h2>Links</h2>
 <a href="https://fantasy.premierleague.com/fixtures">Next GW Fixtures</a><br>
 <a href="https://fantasy.premierleague.com/leagues/510938/standings/c">EPL Fantasy Table</a><br>
+</div>
 </body>
 </html>
