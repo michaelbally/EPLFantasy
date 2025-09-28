@@ -1,7 +1,7 @@
-body {
+body, header {
   background: #1e0021;
 }
-div {
+main {
   background: #541e5d;
 }
 p, h1, h2, h3, h4 {
