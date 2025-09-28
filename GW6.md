@@ -2,9 +2,13 @@
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
-<img width="458" height="270" alt="logo" src="https://github.com/user-attachments/assets/857e9c7f-6b99-414a-8120-e23ab3f322ac" />    
+    
 <body>
-<div>
+<header>
+<img width="458" height="270" alt="logo" src="https://github.com/user-attachments/assets/857e9c7f-6b99-414a-8120-e23ab3f322ac" />    
+</header>
+
+<main>
 <h1>📊 Gameweek 6</h1>
 <a href="https://michaelbally.github.io/EPLFantasy/">Previous Gameweeks</a><br>
 
@@ -74,6 +78,6 @@ Chalobah/Ekitiké: 8 pts</p>
 <h2>Links</h2>
 <a href="https://fantasy.premierleague.com/fixtures">Next GW Fixtures</a><br>
 <a href="https://fantasy.premierleague.com/leagues/510938/standings/c">EPL Fantasy Table</a><br>
-</div>
+</main>
 </body>
 </html>
