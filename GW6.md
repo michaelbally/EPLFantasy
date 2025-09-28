@@ -2,10 +2,9 @@
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
+<img width="458" height="270" alt="logo" src="https://github.com/user-attachments/assets/857e9c7f-6b99-414a-8120-e23ab3f322ac" />    
 <body>
 <div>
-<img width="458" height="270" alt="logo" src="https://github.com/user-attachments/assets/857e9c7f-6b99-414a-8120-e23ab3f322ac" />
-    
 <h1>📊 Gameweek 6</h1>
 <a href="https://michaelbally.github.io/EPLFantasy/">Previous Gameweeks</a><br>
 
