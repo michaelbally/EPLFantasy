@@ -4,7 +4,8 @@
 </head>
 <body>
 <div>
- <h1>📊 Gameweek 5</h1>
+<h1>📊 Gameweek 5</h1>
+![logo](https://github.com/user-attachments/assets/da1be63f-4910-451c-b3e6-0d5e764a208b)
 
 <a href="https://michaelbally.github.io/EPLFantasy/">Previous Gameweeks</a><br>
 
