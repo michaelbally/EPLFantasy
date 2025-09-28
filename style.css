@@ -1,8 +1,10 @@
-body{
-  background-color: lightblue; /* change this to any color or hex */
-     background: #541e5d;
+body {
+  /* background-color: lightblue; /* change this to any color or hex */ 
+  background: #541e5d;
   h1: #FFFFFF;
   h2: #FFFFFF;
   h3: #FFFFFF;
-  p: #FFFFFF;
+}
+p {
+  color: #FFFFFF;
 }
