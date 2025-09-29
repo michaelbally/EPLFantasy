@@ -5,7 +5,7 @@
     
 <body>
 <header>
-<img width="458" height="270" alt="logo" src="https://github.com/user-attachments/assets/857e9c7f-6b99-414a-8120-e23ab3f322ac" />    
+<img width="400" alt="logo" src="https://github.com/user-attachments/assets/857e9c7f-6b99-414a-8120-e23ab3f322ac" />    
 </header>
 
 <main>
@@ -22,7 +22,7 @@ chips used: -</p>
 <p>Dring strutted into his post-match presser like a disco king emerging from the smoke machine. “The Toon Army fuels me,” he said, before breaking into a questionable dance routine that may or may not have been the Macarena. Rumours from the post office suggest his co-workers are sick of hearing about his tactics, but with the league lead in hand, Dring is ready to torch anyone who doubts him. Rivals fear the inferno is only just warming up.</p>
 
 <h3>🏰 Jonathan Kane - Real Moat</h3>
-<img height="300" alt="manager-jonny" src="https://github.com/user-attachments/assets/1283090c-e25f-43a6-a86b-e7154ad0f212" />
+<img width="400" alt="manager-jonny1" src="https://github.com/user-attachments/assets/a0620595-d89b-49e8-a9d2-a4c9ecdb1c7f" />
 <p>standings change: <br>
 average rank: -<br>
 transfers in: Simons<br>
@@ -40,7 +40,7 @@ chips used: wildcard</p>
 <p>Another steady week, though the amps were turned down from last week’s headbanger. Stanley emerged looking like a man running on two hours’ sleep, juggling a baby bottle in one hand and an air guitar in the other. “We go again,” he muttered, before strapping on a bike helmet and disappearing into the night. Reports suggest his squad bus has been converted into a tour van-slash-nursery, with nappy bins stacked next to the guitar amps. Rock on, baby or not.</p>
 
 <h3>🍖 Joel Xavier - K-BBQ FC</h3>
-<img height="300" alt="manager-joel1-cropped" src="https://github.com/user-attachments/assets/16dcc0db-0210-41e2-8dbf-eff732441b1b" />
+<img width="400" alt="manager-joel2" src="https://github.com/user-attachments/assets/5ad59198-3d97-489e-915e-d04749b335a7" />
 <p>standings change: <br>
 average rank: -<br>
 transfers in: Semenyo, Guéhi<br>
@@ -49,7 +49,7 @@ chips used: wildcard</p>
 <p>64 sizzling points saw Joel leap up the table — and the smell of burnt steak could be sensed from miles away. A tinkerer to the core, he apparently changed his lineup seven times while grilling kebabs at a family BBQ. One insider whispered, “He’s got a spreadsheet for marinades.” Last season’s runner-up insists he’s learned patience, but the smoke rising from his squad sheet says otherwise. Whether this feast keeps cooking or collapses into flames is anyone’s guess.</p>
 
 <h3>🤯 Simon Edwards - Chuna believe it</h3>
-<img height="300" alt="manager-simon" src="https://github.com/user-attachments/assets/412e4d44-13e6-4c90-b147-2f2d0ce0eb00" />
+<img width="400" alt="manager-simon1" src="https://github.com/user-attachments/assets/131c31dc-4dde-4a14-a522-933a5fda745a" />
 <p>standings change: <br>
 average rank: -<br>
 transfers in: Woltemade, Semenyo, Caicedo, Guéhi<br>
@@ -81,19 +81,19 @@ Reijnders/Haaland/Burn/Bowen: 9 pts<br>
 Chalobah/Ekitiké: 8 pts</p>
 
 <h2>📊 Standings Recap</h2>
-<p>1️⃣ Daniel Dring — 40 GW pts — 265 total ⬆️<br>
-2️⃣ Jonathan Kane — 19 GW pts — 252 total ⬇️<br>
-3️⃣ John Stanley — 36 GW pts — 237 total ➡️<br>
-4️⃣ Joel Xavier — 64 GW pts — 237 total ⬆️<br>
-5️⃣ Simon Edwards — 53 GW pts — 231 total ⬇️<br>
-6️⃣ Michael Desmond — 56 GW pts — 229 total ➡️<br>
-7️⃣ Michael Ball — 41 GW pts — 208 total ➡️</p>
+<p>1️⃣ Daniel Dring — 265 total ⬆️<br>
+2️⃣ Jonathan Kane — 252 total ⬇️<br>
+3️⃣ John Stanley — 237 total ➡️<br>
+4️⃣ Joel Xavier — 237 total ⬆️<br>
+5️⃣ Simon Edwards — 231 total ⬇️<br>
+6️⃣ Michael Desmond — 229 total ➡️<br>
+7️⃣ Michael Ball — 208 total ➡️</p>
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/52fe36a1-a73f-4d2d-a70f-80c0e71e5483" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/ec9faa7f-62e0-4088-965a-67a30cfdb5f3" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/52fe36a1-a73f-4d2d-a70f-80c0e71e5483" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/ec9faa7f-62e0-4088-965a-67a30cfdb5f3" />
 
 <h2>Next Transfer Deadline</h2>
-<p>...</p>
+<p>Fri 3 Oct, 18:30</p>
 
 <h2>Links</h2>
 <a href="https://fantasy.premierleague.com/fixtures">Next GW Fixtures</a><br>
