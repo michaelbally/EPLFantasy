@@ -75,7 +75,7 @@ transfers out: -<br>
 chips used: wildcard</p>
 <p>Another week scraping the coupon drawer, Ball’s 41 points kept him firmly in the bargain bin. Reports claim his squad meeting was held in an Aldi car park, with tactics sketched on the back of a Lidl receipt. “We’re value for money,” he insisted, pointing to his pound-shop whiteboard. Rivals mock his duct-tape solutions, but Ball remains defiant: “Who needs luxury signings when you’ve got buy-one-get-one-free passion?” The Budget Ballers might not shine, but they’re never over budget.</p>
 
-<h2>Points Tracker</h2>
+<h2>📈 Points Tracker</h2>
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/52fe36a1-a73f-4d2d-a70f-80c0e71e5483" />
 
 <h2>⭐ Top Performing League Picks</h2>
