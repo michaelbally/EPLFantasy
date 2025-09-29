@@ -22,7 +22,7 @@ chips used: -</p>
 <p>Dring strutted into his post-match presser like a disco king emerging from the smoke machine. “The Toon Army fuels me,” he said, before breaking into a questionable dance routine that may or may not have been the Macarena. Rumours from the post office suggest his co-workers are sick of hearing about his tactics, but with the league lead in hand, Dring is ready to torch anyone who doubts him. Rivals fear the inferno is only just warming up.</p>
 
 <h3>🏰 Jonathan Kane - Real Moat</h3>
-<img height="300" alt="manager-jonny1" class=center src="https://github.com/user-attachments/assets/a0620595-d89b-49e8-a9d2-a4c9ecdb1c7f" />
+<img height="300" alt="manager-jonny1" src="https://github.com/user-attachments/assets/a0620595-d89b-49e8-a9d2-a4c9ecdb1c7f" />
 <p>standings change: <br>
 average rank: -<br>
 transfers in: Simons<br>
