@@ -13,7 +13,7 @@
 
 <h2>📰 Team Headlines</h2>
 <h3>🔥 Daniel Dring - Burn Baby Burn</h3>
-<img height="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
+<img width="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
 <p>standings change: <br>
 average rank: -<br>
 transfers in: -<br>
@@ -67,7 +67,7 @@ chips used: -</p>
 <p>56 points and no movement in the table, but Desmond remains the league’s lurking shark. He gave no interviews, simply walking his dog while wearing noise-cancelling headphones. Teammates describe him as “the silent assassin,” and Amazon staff swear he spends his breaks flicking through vinyls instead of match reports. Some rivals say he’s coasting — others fear he’s waiting for the perfect strike. “Sharks don’t talk,” one anonymous source said, “they bite.”</p>
 
 <h3>💸 Michael Ball - Budget Ballers</h3>
-<img height="300" alt="manager-me" src="https://github.com/user-attachments/assets/af91e5b9-0cce-4ae8-bb22-33c45ed31997" />
+<img width="300" alt="manager-me" src="https://github.com/user-attachments/assets/af91e5b9-0cce-4ae8-bb22-33c45ed31997" />
 <p>standings change: -<br>
 average rank: -<br>
 transfers in: -<br>
