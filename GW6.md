@@ -15,6 +15,7 @@
 <h3>🔥 Daniel Dring - Burn Baby Burn</h3>
 <img height="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
 <p>standings change: <br>
+average rank: -<br>
 transfers in: -<br>
 transfers out: -<br>
 chips used: -</p>
@@ -23,6 +24,7 @@ chips used: -</p>
 <h3>🏰 Jonathan Kane - Real Moat</h3>
 <img height="300" alt="manager-jonny" src="https://github.com/user-attachments/assets/1283090c-e25f-43a6-a86b-e7154ad0f212" />
 <p>standings change: <br>
+average rank: -<br>
 transfers in: Simons<br>
 transfers out: Fernandes<br>
 chips used: -</p>
@@ -31,6 +33,7 @@ chips used: -</p>
 <h3>✈️ John Stanley - Flying High Again</h3>
 <img height="300" alt="manager-stanley1" src="https://github.com/user-attachments/assets/0a294cd6-4939-4dd8-93ea-5764d6366aa8" />
 <p>standings change: <br>
+average rank: -<br>
 transfers in: -<br>
 transfers out: -<br>
 chips used: wildcard</p>
@@ -39,6 +42,7 @@ chips used: wildcard</p>
 <h3>🍖 Joel Xavier - K-BBQ FC</h3>
 <img height="300" alt="manager-joel1-cropped" src="https://github.com/user-attachments/assets/16dcc0db-0210-41e2-8dbf-eff732441b1b" />
 <p>standings change: <br>
+average rank: -<br>
 transfers in: Semenyo, Guéhi<br>
 transfers out: Traorè, Aina<br>
 chips used: wildcard</p>
@@ -47,6 +51,7 @@ chips used: wildcard</p>
 <h3>🤯 Simon Edwards - Chuna believe it</h3>
 <img height="300" alt="manager-simon" src="https://github.com/user-attachments/assets/412e4d44-13e6-4c90-b147-2f2d0ce0eb00" />
 <p>standings change: <br>
+average rank: -<br>
 transfers in: Woltemade, Semenyo, Caicedo, Guéhi<br>
 transfers out: Barnes, Cunha, Saka, Aït-Nouri<br>
 chips used: triple captain</p>
@@ -55,6 +60,7 @@ chips used: triple captain</p>
 <h3>💀 Michael Desmond - Cunha Get Any Worse</h3>
 <img height="300" alt="manager-dez1" src="https://github.com/user-attachments/assets/1820eb06-dcd9-4fbf-a43b-857dba782719" />
 <p>standings change: <br>
+average rank: -<br>
 transfers in: Tonali<br>
 transfers out: Tielemans<br>
 chips used: -</p>
@@ -63,6 +69,7 @@ chips used: -</p>
 <h3>💸 Michael Ball - Budget Ballers</h3>
 <img height="300" alt="manager-me" src="https://github.com/user-attachments/assets/af91e5b9-0cce-4ae8-bb22-33c45ed31997" />
 <p>standings change: -<br>
+average rank: -<br>
 transfers in: -<br>
 transfers out: -<br>
 chips used: wildcard</p>
