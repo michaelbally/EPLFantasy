@@ -30,7 +30,7 @@ transfers out: Fernandes<br>
 chips used: -</p>
 <p>From throne to turmoil, Kane’s fortress crumbled this week with a paltry 19 points. Journalists were met with a raised drawbridge and “no comment” signs outside the castle gates in Dubai. One source claims his knights are threatening mutiny after being fed “budget hummus” in the mess hall. Kane insists the moat will hold, but whispers of siege warfare are spreading through the camp. The once-calm king suddenly looks like a man guarding crumbling stone.</p>
 
-<h3>✈️ John Stanley - Flying High Again</h3>
+<h3>🤘 John Stanley - Flying High Again</h3>
 <img height="300" alt="manager-stanley1" src="https://github.com/user-attachments/assets/0a294cd6-4939-4dd8-93ea-5764d6366aa8" />
 <p>standings change: <br>
 average rank: -<br>
@@ -48,7 +48,7 @@ transfers out: Traorè, Aina<br>
 chips used: wildcard</p>
 <p>64 sizzling points saw Joel leap up the table — and the smell of burnt steak could be sensed from miles away. A tinkerer to the core, he apparently changed his lineup seven times while grilling kebabs at a family BBQ. One insider whispered, “He’s got a spreadsheet for marinades.” Last season’s runner-up insists he’s learned patience, but the smoke rising from his squad sheet says otherwise. Whether this feast keeps cooking or collapses into flames is anyone’s guess.</p>
 
-<h3>🤯 Simon Edwards - Chuna believe it</h3>
+<h3>🎸 Simon Edwards - Chuna believe it</h3>
 <img height="300" alt="manager-simon1" src="https://github.com/user-attachments/assets/131c31dc-4dde-4a14-a522-933a5fda745a" />
 <p>standings change: <br>
 average rank: -<br>
@@ -92,10 +92,10 @@ chips used: wildcard</p>
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/52fe36a1-a73f-4d2d-a70f-80c0e71e5483" />
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/ec9faa7f-62e0-4088-965a-67a30cfdb5f3" />
 
-<h2>Next Transfer Deadline</h2>
+<h2>📅 Next Transfer Deadline</h2>
 <p>Fri 3 Oct, 18:30</p>
 
-<h2>Links</h2>
+<h2>🔗 Links</h2>
 <a href="https://fantasy.premierleague.com/fixtures">Next GW Fixtures</a><br>
 <a href="https://michaelbally.github.io/EPLFantasy/">Previous Gameweeks</a><br>
 </main>
