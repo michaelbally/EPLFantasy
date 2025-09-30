@@ -22,7 +22,7 @@
     transfers out: </p>
 
 <h3>🔥 Daniel Dring - Burn Baby Burn</h3>
-<img width="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
+<img hieght="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
 <p>GW points: 42<br>
     standings change: -1<br>
     average rank: 1.7<br>
@@ -40,7 +40,7 @@
     transfers out: -</p>
 
 <h3>🏰 Jonathan Kane - Real Moat</h3>
-<img width="300" alt="manager-jonny3" src="https://github.com/user-attachments/assets/eb9c5f0b-2d68-4de7-b2e4-9f56f291ff29" />
+<img height="300" alt="manager-jonny3" src="https://github.com/user-attachments/assets/eb9c5f0b-2d68-4de7-b2e4-9f56f291ff29" />
 <p>GW points: 48<br>
     standings change: -2<br>
     average rank: 1.8<br>
@@ -76,15 +76,15 @@
     transfers out: -</p>
 
 <h2>📈 Points Tracker</h2>
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/2406c4e3-47a2-4188-91c9-09a0355ec956" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2406c4e3-47a2-4188-91c9-09a0355ec956" />
 
 <h2>⭐ Top Performing League Picks</h2>
 <p>🥇 Fernandes: 10 pts<br>
 🥈 Reijnders/Haaland/Burn/Bowen: 9 pts<br>
 🥉 Chalobah/Ekitiké: 8 pts</p>
 
-<h2>👀 Most points left on bench</h2>
-<p>Daniel Dring: 12pts</p>
+<h2> Most points left on bench</h2>
+<p>Burn Baby Burn: 12pts</p>
 
 <h2>📊 Standings Recap</h2>
 <p>1️⃣ Daniel Dring — 265 total<br>
@@ -95,7 +95,7 @@
 6️⃣ Michael Desmond — 229 total<br>
 7️⃣ Michael Ball — 208 total</p>
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/24e7221c-08ec-4dfb-9928-fa26ab7b8a30" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/24e7221c-08ec-4dfb-9928-fa26ab7b8a30" />
 
 <h2>📅 Next Transfer Deadline</h2>
 <p>Fri 3 Oct, 18:30</p>
