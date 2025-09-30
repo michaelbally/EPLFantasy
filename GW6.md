@@ -58,7 +58,7 @@
     transfers out: Tielemans</p>
 
 <h3>🍖 Joel Xavier - K-BBQ FC</h3>
-<img height="300" alt="manager-joel2" src="https://github.com/user-attachments/assets/5ad59198-3d97-489e-915e-d04749b335a7" />
+<img height="300" alt="manager-joel2" src="https://github.com/user-attachments/assets/956d933b-4708-42b2-994e-8dd27c20d789" />
 <p>GW points: 56<br>
     standings change: -2<br>
     average rank: 5.2<br>
