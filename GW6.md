@@ -22,7 +22,7 @@
     transfers out: </p>
 
 <h3>🔥 Daniel Dring - Burn Baby Burn</h3>
-<img hieght="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
+<img height="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
 <p>GW points: 42<br>
     standings change: -1<br>
     average rank: 1.7<br>
