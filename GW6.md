@@ -101,7 +101,7 @@ At the presser, Joel hit back: “Better overcooked than underprepared. Edwards�
     transfers out: -</p>
 <p>Another week, another scrape from the bargain bin. Ball pulled 49, but remains marooned at the bottom. Insiders spotted him outside Aldi trying to swap two knock-off defenders for a single striker, muttering about “multi-buy deals.” Rivals jeer, but Ball remains defiant.
 
-In his weekly press note (which he writes himself, of course), he snapped: “If I had their budgets, I’d be top. Instead, I’m making magic with duct tape and 3-for-1 coupons.”</p>
+In his weekly press note, he snapped: “If I had their budgets, I’d be top. Instead, I’m making magic with duct tape and 3-for-1 coupons.”</p>
 <h2>📈 Points Tracker</h2>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/bfd9eb77-adc5-4f64-a15e-9feece1d6d00" />
 
