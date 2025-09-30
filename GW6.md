@@ -39,7 +39,7 @@ In his post-match press conference, Edwards couldn’t resist throwing shade: �
 When asked about Edwards’ surge, Dring barked: “He’s a one-week wonder. I’ve been burning since August, and this fire doesn’t go out.” Rumours swirl of him threatening to install pyrotechnics on the touchline just to intimidate Kane’s crumbling fortress.</p>
 
 <h3>🤘 John Stanley - Flying High Again</h3>
-<img width="300" alt="manager-stanley1" src="https://github.com/user-attachments/assets/0a294cd6-4939-4dd8-93ea-5764d6366aa8" />
+<img height="300" alt="manager-stanley1" src="https://github.com/user-attachments/assets/0a294cd6-4939-4dd8-93ea-5764d6366aa8" />
 <p>GW points: 69<br>
     avg GW points: 51<br>
     standings change: -<br>
