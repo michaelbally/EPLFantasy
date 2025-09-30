@@ -12,71 +12,78 @@
 <h1>📊 Gameweek 6</h1>
 
 <h2>📰 Team Headlines</h2>
+<h3>🎸 Simon Edwards - Chuna believe it</h3>
+<img height="300" alt="manager-simon1" src="https://github.com/user-attachments/assets/c73b224e-8e13-495a-affd-576c05971041" />
+<p>GW points: 92<br>
+    standings change: +4<br>
+average rank: 4<br>
+transfers in: <br>
+transfers out: <br>
+chips used: triple captain</p>
+<p></p>
+
 <h3>🔥 Daniel Dring - Burn Baby Burn</h3>
 <img width="300" alt="manager-dring1" src="https://github.com/user-attachments/assets/65e1ecd0-468e-4e51-b2c3-24139365807c" />
-<p>standings change: <br>
-average rank: -<br>
+<p>GW points: 42<br>
+    standings change: -1<br>
+average rank: 1.7<br>
 transfers in: -<br>
 transfers out: -<br>
 chips used: -</p>
-<p>Dring strutted into his post-match presser like a disco king emerging from the smoke machine. “The Toon Army fuels me,” he said, before breaking into a questionable dance routine that may or may not have been the Macarena. Rumours from the post office suggest his co-workers are sick of hearing about his tactics, but with the league lead in hand, Dring is ready to torch anyone who doubts him. Rivals fear the inferno is only just warming up.</p>
-
-<h3>🏰 Jonathan Kane - Real Moat</h3>
-<img height="300" alt="manager-jonny1" src="https://github.com/user-attachments/assets/a0620595-d89b-49e8-a9d2-a4c9ecdb1c7f" />
-<p>standings change: <br>
-average rank: -<br>
-transfers in: Simons<br>
-transfers out: Fernandes<br>
-chips used: -</p>
-<p>From throne to turmoil, Kane’s fortress crumbled this week with a paltry 19 points. Journalists were met with a raised drawbridge and “no comment” signs outside the castle gates in Dubai. One source claims his knights are threatening mutiny after being fed “budget hummus” in the mess hall. Kane insists the moat will hold, but whispers of siege warfare are spreading through the camp. The once-calm king suddenly looks like a man guarding crumbling stone.</p>
+<p>.</p>
 
 <h3>🤘 John Stanley - Flying High Again</h3>
 <img height="300" alt="manager-stanley1" src="https://github.com/user-attachments/assets/0a294cd6-4939-4dd8-93ea-5764d6366aa8" />
-<p>standings change: <br>
-average rank: -<br>
+<p>GW points: 69<br>
+    standings change: -<br>
+average rank: 4.5<br>
 transfers in: -<br>
 transfers out: -<br>
 chips used: wildcard</p>
-<p>Another steady week, though the amps were turned down from last week’s headbanger. Stanley emerged looking like a man running on two hours’ sleep, juggling a baby bottle in one hand and an air guitar in the other. “We go again,” he muttered, before strapping on a bike helmet and disappearing into the night. Reports suggest his squad bus has been converted into a tour van-slash-nursery, with nappy bins stacked next to the guitar amps. Rock on, baby or not.</p>
+<p></p>
 
-<h3>🍖 Joel Xavier - K-BBQ FC</h3>
-<img height="300" alt="manager-joel2" src="https://github.com/user-attachments/assets/5ad59198-3d97-489e-915e-d04749b335a7" />
-<p>standings change: <br>
-average rank: -<br>
-transfers in: Semenyo, Guéhi<br>
-transfers out: Traorè, Aina<br>
-chips used: wildcard</p>
-<p>64 sizzling points saw Joel leap up the table — and the smell of burnt steak could be sensed from miles away. A tinkerer to the core, he apparently changed his lineup seven times while grilling kebabs at a family BBQ. One insider whispered, “He’s got a spreadsheet for marinades.” Last season’s runner-up insists he’s learned patience, but the smoke rising from his squad sheet says otherwise. Whether this feast keeps cooking or collapses into flames is anyone’s guess.</p>
-
-<h3>🎸 Simon Edwards - Chuna believe it</h3>
-<img height="300" alt="manager-simon1" src="https://github.com/user-attachments/assets/131c31dc-4dde-4a14-a522-933a5fda745a" />
-<p>standings change: <br>
-average rank: -<br>
-transfers in: Woltemade, Semenyo, Caicedo, Guéhi<br>
-transfers out: Barnes, Cunha, Saka, Aït-Nouri<br>
-chips used: triple captain</p>
-<p>A chaotic 53-point haul saw Simon drop a place, but his press conference was pure sitcom gold. He arrived late, claiming he was “finalising an eBay bid” for a rare Iron Maiden vinyl. Mid-interview, he began updating his LinkedIn profile while humming bass riffs. A rival gaffer quipped: “Does he even know he’s managing a team?” The truth is, Simon’s chaos is half the fun — Chuna Believe It feels like watching a band rehearse while the amps are on fire.</p>
+<h3>🏰 Jonathan Kane - Real Moat</h3>
+<img width="300" alt="manager-jonny3" src="https://github.com/user-attachments/assets/eb9c5f0b-2d68-4de7-b2e4-9f56f291ff29" />
+<p>GW points: 48<br>
+    standings change: -2<br>
+average rank: 1.8<br>
+transfers in: <br>
+transfers out: <br>
+chips used: -</p>
+<p></p>
 
 <h3>💀 Michael Desmond - Cunha Get Any Worse</h3>
 <img height="300" alt="manager-dez1" src="https://github.com/user-attachments/assets/1820eb06-dcd9-4fbf-a43b-857dba782719" />
-<p>standings change: <br>
-average rank: -<br>
+<p>GW points: 71<br>
+    standings change: +1<br>
+average rank: 4.7<br>
 transfers in: Tonali<br>
 transfers out: Tielemans<br>
 chips used: -</p>
-<p>56 points and no movement in the table, but Desmond remains the league’s lurking shark. He gave no interviews, simply walking his dog while wearing noise-cancelling headphones. Teammates describe him as “the silent assassin,” and Amazon staff swear he spends his breaks flicking through vinyls instead of match reports. Some rivals say he’s coasting — others fear he’s waiting for the perfect strike. “Sharks don’t talk,” one anonymous source said, “they bite.”</p>
+<p></p>
+
+<h3>🍖 Joel Xavier - K-BBQ FC</h3>
+<img height="300" alt="manager-joel2" src="https://github.com/user-attachments/assets/5ad59198-3d97-489e-915e-d04749b335a7" />
+<p>GW points: 56<br>
+    standings change: -2<br>
+average rank: 5.2<br>
+transfers in: Semenyo, Guéhi<br>
+transfers out: Traorè, Aina<br>
+chips used: wildcard</p>
+<p></p>
 
 <h3>💸 Michael Ball - Budget Ballers</h3>
 <img width="300" alt="manager-me" src="https://github.com/user-attachments/assets/af91e5b9-0cce-4ae8-bb22-33c45ed31997" />
-<p>standings change: -<br>
-average rank: -<br>
+<p>GW points: 49<br>
+    standings change: -<br>
+average rank: 5.8<br>
 transfers in: -<br>
 transfers out: -<br>
 chips used: wildcard</p>
-<p>Another week scraping the coupon drawer, Ball’s 41 points kept him firmly in the bargain bin. Reports claim his squad meeting was held in an Aldi car park, with tactics sketched on the back of a Lidl receipt. “We’re value for money,” he insisted, pointing to his pound-shop whiteboard. Rivals mock his duct-tape solutions, but Ball remains defiant: “Who needs luxury signings when you’ve got buy-one-get-one-free passion?” The Budget Ballers might not shine, but they’re never over budget.</p>
+<p></p>
 
 <h2>📈 Points Tracker</h2>
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/52fe36a1-a73f-4d2d-a70f-80c0e71e5483" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/2406c4e3-47a2-4188-91c9-09a0355ec956" />
 
 <h2>⭐ Top Performing League Picks</h2>
 <p>🥇 Fernandes: 10 pts<br>
@@ -84,7 +91,7 @@ chips used: wildcard</p>
 🥉 Chalobah/Ekitiké: 8 pts</p>
 
 <h2>👀 Most points left on bench</h2>
-<p>Fernandes: 10 pts</p>
+<p>Daniel Dring: 12pts</p>
 
 <h2>📊 Standings Recap</h2>
 <p>1️⃣ Daniel Dring — 265 total<br>
@@ -95,7 +102,7 @@ chips used: wildcard</p>
 6️⃣ Michael Desmond — 229 total<br>
 7️⃣ Michael Ball — 208 total</p>
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/ec9faa7f-62e0-4088-965a-67a30cfdb5f3" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/24e7221c-08ec-4dfb-9928-fa26ab7b8a30" />
 
 <h2>📅 Next Transfer Deadline</h2>
 <p>Fri 3 Oct, 18:30</p>
