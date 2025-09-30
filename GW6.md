@@ -101,8 +101,8 @@
 <p>Fri 3 Oct, 18:30</p>
 
 <h2>🔗 Links</h2>
-<a href="https://fantasy.premierleague.com/fixtures">Next GW Fixtures</a><br>
-<a href="https://michaelbally.github.io/EPLFantasy/">Previous Gameweeks</a><br>
+<a href="https://fantasy.premierleague.com/fixtures">next GW fixtures</a><br>
+<a href="https://michaelbally.github.io/EPLFantasy/">previous reports</a><br>
 </main>
 </body>
 </html>
