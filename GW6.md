@@ -1,7 +1,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
-</head>
+
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZNY8C996VR"></script>
 <script>
@@ -11,6 +11,7 @@
 
   gtag('config', 'G-ZNY8C996VR');
 </script>
+</head>
 
 <body>
 <header>
