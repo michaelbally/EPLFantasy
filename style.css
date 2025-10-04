@@ -4,7 +4,7 @@ body, header {
 main {
   background: #541e5d;
 }
-p, h1, h2, h3, h4 {
+p, h1, h2, h3, h4, marquee {
   color: #FFFFFF;
   padding: 10px
   /* font-family: Helvetica, Arial, sans-serif; */
