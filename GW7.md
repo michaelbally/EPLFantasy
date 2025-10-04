@@ -117,7 +117,7 @@
 <a href="https://michaelbally.github.io/EPLFantasy/">previous reports</a><br>
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
-  ⚽ Daniel Dring back on top | 🏰 Kane’s fortress crumbles | 🎸 Stanley hits another 69 |
+  ⚽ Daniel Dring back on top | 🏰 Kane’s fortress crumbles | 🎸 Stanley hits another 69 | Saggy Dads enters restaurants in India | Ball Backs Andre | Desmond spotted outside SeaWorld | Kane assures Dubai will be ok | AmmorIn for the moment | Neil never forgotten ❤️ | Durst gets attention for Alestorm tshirt | VPN use skyrockets as OnlyKids traffic hits all time high | Worrying increase in hot asian scams in UAE | Pending charges against Man City: 115 | Amount of strikers rejecting Newcastle: 12 | Amount of Amromim formation changes: 0 |
 </marquee>
 
 </main>
