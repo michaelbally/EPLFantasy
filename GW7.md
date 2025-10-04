@@ -116,8 +116,8 @@
 <a href="https://fantasy.premierleague.com/fixtures">next GW fixtures</a><br>
 <a href="https://michaelbally.github.io/EPLFantasy/">previous reports</a><br>
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-Saggy Dads hits high streets across India | Ball Backs Andre | Desmond spotted outside SeaWorld | Neil never forgotten ❤️ | Durst gets attention for Alestorm tshirt | VPN use skyrockets as users continue OnlyKids access | Worrying increase in hot asian scams in UAE | Pending charges against Man City: 115 | Amount of strikers rejecting Newcastle: 12 | Last Amorim formation change: 11/09/2022 | racist google image generation: 1
+<marquee class=ticker behavior="scroll" direction="left" scrollamount="5">
+Saggy Dads hits high streets across India | Ball Backs Andre | Desmond spotted outside SeaWorld | Neil never forgotten ❤️ | Durst gets attention for Alestorm tshirt | VPN use skyrockets as users continue OnlyKids access | Worrying increase in hot asian scams in UAE | Pending charges against Man City: 115 | Amount of strikers rejecting Newcastle: 12 | Last Amorim formation change: 11/09/2022 | racist google image generated: 1
 </marquee>
 
 </main>
