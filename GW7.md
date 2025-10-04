@@ -115,6 +115,11 @@
 <h2>🔗 Links</h2>
 <a href="https://fantasy.premierleague.com/fixtures">next GW fixtures</a><br>
 <a href="https://michaelbally.github.io/EPLFantasy/">previous reports</a><br>
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  ⚽ Daniel Dring back on top | 🏰 Kane’s fortress crumbles | 🎸 Stanley hits another 69 |
+</marquee>
+
 </main>
 </body>
 </html>
