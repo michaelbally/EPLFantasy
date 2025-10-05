@@ -5,7 +5,8 @@
 
 <body>
 <header>
-    <img width="400" height="166" alt="logo1" src="https://github.com/user-attachments/assets/907c65a9-ac11-4424-9c6e-ba47f4a33c57" />
+    <img width="400" height="166" src="https://github.com/user-attachments/assets/907c65a9-ac11-4424-9c6e-ba47f4a33c57" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3duazYxcnV3MXB1cjliYTNwNGcxcTdlc3Y1bGppejhsdWo4OHdxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guJZ84aiImq5i/giphy.gif" width="150"/>
 </header>
 
 <div class=block>
