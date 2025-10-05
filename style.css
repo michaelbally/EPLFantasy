@@ -2,7 +2,7 @@ body,
 header {
   background: #1e0021;
 }
-block {
+.block {
   background: #541e5d;
 }
 p,
@@ -19,9 +19,9 @@ img {
   margin: auto;
   display: block;
 }
-ticker {
+/* ticker {
   color: #ffffff;
-}
+} */
 /* .center {
   display: block;
   margin-left: auto;

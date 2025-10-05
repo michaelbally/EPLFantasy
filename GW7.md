@@ -123,7 +123,7 @@
 <a href="https://fantasy.premierleague.com/fixtures">next GW fixtures</a><br>
 <a href="https://michaelbally.github.io/EPLFantasy/">previous reports</a><br>
 
-<marquee class=ticker behavior="scroll" direction="left" scrollamount="5">
+<marquee behavior="scroll" direction="left" scrollamount="5">
 Saggy Dads a big hit across India | Ball fights "Aldi Ancelotti" accusations | Desmond spotted outside SeaWorld | Neil never forgotten ❤️ | Reports of men get stared at for wearing an Alestorm tshirt | Pending charges against Man City: 115 | VPN use skyrockets as users drive traffic to OnlyKids | racist google images generated: 1 | Worrying increase in hot asian scams in UAE | Amount of strikers rejecting Newcastle: 12 | Sinks "perfectly suitable for vomit" claims man from Sheffield | Last Amorim formation change: 11/09/2022 |
 </marquee>
 
