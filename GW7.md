@@ -10,11 +10,11 @@
 </header>
 
 <div class=block>
-<h1>📊 Gameweek 7</h1>
+<h3>📊 Gameweek 7</h3>
     </div>
 
 <div class=block>
-<h2>📰 Team Headlines</h2>
+<h3>📰 Team Headlines</h3>
 
 <h3>1️⃣ Simon Edwards - Chuna believe it</h3>
 <img height="300" alt="manager-simon1" src="https://github.com/user-attachments/assets/c73b224e-8e13-495a-affd-576c05971041" />
@@ -100,19 +100,19 @@
 </div>
 
 <div class=block>
-<h2>🏆 Manager of the week</h2>
+<h3>🏆 Manager of the week</h3>
 <p></p>
     </div>
 
 <div class=block>
-<h2>🧆 Saggy Dad of the week</h2>
+<h3>🧆 Saggy Dad of the week</h3>
 <p>Serving: Main (Primary Caregiver)<br>
 Title: Baghdad Saggy Dad<br>
 Serving Instructions: With Explosive Hot Sauce</p>
     </div>
 
 <div class=block>
-<h2>📊 Standings Recap</h2>
+<h3>📊 Standings Recap</h3>
 <p>1️⃣ Simon Edwards — 323 pts<br>
 2️⃣ Daniel Dring — 307 pts (−16)<br>
 3️⃣ John Stanley — 306 pts (−1)<br>
@@ -127,12 +127,12 @@ Serving Instructions: With Explosive Hot Sauce</p>
 </div>
 
 <div class=block>
-<h2>📅 Next Transfer Deadline</h2>
+<h3>📅 Next Transfer Deadline</h3>
 <p id = "deadline"></p>
     </div>
 
 <div class=block>
-<h2>🔗 Links</h2>
+<h3>🔗 Links</h3>
 <p>
 <a href="https://fantasy.premierleague.com/fixtures">Next GW Fixtures</a><br>
 <a href="https://michaelbally.github.io/EPLFantasy/">Previous Reports</a><br>
