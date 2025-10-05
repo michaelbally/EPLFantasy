@@ -109,7 +109,7 @@
     </div>
 
 <div class=block>
-<h2>🪑 Saggy Dad of the week</h2>
+<h2>🧆 Saggy Dad of the week</h2>
 <p>Baghdad Saggy Dad (With Explosive Hot Sauce)</p>
     </div>
 
@@ -148,7 +148,7 @@ Saggy Dads a big hit across India | Ball fights "Aldi Ancelotti" accusations | D
     const deadline = new Date("2025-10-18T11:00:00");
     const now = new Date();
     const diff = deadline - now;
-    const days = Math.floor(diffInSeconds / 86400);
+    const days = Math.floor(diff / 86400);
     document.getElementById("deadline").textContent = `Sat 18 Oct, 11:00. ${days} days`;
 </script>
 

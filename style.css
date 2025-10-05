@@ -8,6 +8,10 @@ header {
   border-radius: 25px;
 }
 
+h1 {
+  text-decoration: none;
+}
+
 p,
 h1,
 h2,
