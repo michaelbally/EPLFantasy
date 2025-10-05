@@ -110,7 +110,7 @@
 
 <div class=block>
 <h2>🪑 Saggy Dad of the week</h2>
-<p></p>
+<p>Baghdad Saggy Dad (With Explosive Hot Sauce)</p>
     </div>
 
 <div class=block>
@@ -129,7 +129,7 @@
 
 <div class=block>
 <h2>📅 Next Transfer Deadline</h2>
-<p>id = "deadline"</p>
+<p id = "deadline"></p>
     </div>
 
 <div class=block>
