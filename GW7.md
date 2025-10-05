@@ -148,8 +148,8 @@ Saggy Dads a big hit across India | Ball fights "Aldi Ancelotti" accusations | D
     const deadline = new Date("2025-10-18T11:00:00");
     const now = new Date();
     const diff = deadline - now;
-    const days = Math.floor(diff / 86400);
-    document.getElementById("deadline").textContent = `Sat 18 Oct, 11:00. ${days} days`;
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    document.getElementById("deadline").textContent = `Sat 18 Oct, 11:00. (${days} days)`;
 </script>
 
 </body>

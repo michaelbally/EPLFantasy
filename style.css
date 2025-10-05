@@ -20,6 +20,8 @@ h4,
 marquee {
   color: #ffffff;
   padding: 10px;
+  text-decoration: none;
+  text-align: center;
   /* font-family: Helvetica, Arial, sans-serif; */
 }
 
