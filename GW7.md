@@ -99,18 +99,20 @@
 </div>
 
 <div class=block>
-<h2>🪑 Most points left on bench</h2>
-<p></p>
-    </div>
-
-<div class=block>
 <h2>🏆 Manager of the week</h2>
 <p></p>
     </div>
 
 <div class=block>
+<h2>🪑 Most points left on bench</h2>
+<p></p>
+    </div>
+
+<div class=block>
 <h2>🧆 Saggy Dad of the week</h2>
-<p>Baghdad Saggy Dad (With Explosive Hot Sauce)</p>
+<p>Serving: Main (Primary Caregiver)<br>
+Title: Baghdad Saggy Dad<br>
+Serving Instructions: With Explosive Hot Sauce</p>
     </div>
 
 <div class=block>
