@@ -1,20 +1,26 @@
-body, header {
+body,
+header {
   background: #1e0021;
 }
-main {
+block {
   background: #541e5d;
 }
-p, h1, h2, h3, h4, marquee {
-  color: #FFFFFF;
-  padding: 10px
+p,
+h1,
+h2,
+h3,
+h4,
+marquee {
+  color: #ffffff;
+  padding: 10px;
   /* font-family: Helvetica, Arial, sans-serif; */
 }
 img {
   margin: auto;
   display: block;
 }
-ticker{
-  color: #FFFFFF;
+ticker {
+  color: #ffffff;
 }
 /* .center {
   display: block;
