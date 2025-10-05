@@ -104,11 +104,6 @@
     </div>
 
 <div class=block>
-<h2>🪑 Most points left on bench</h2>
-<p></p>
-    </div>
-
-<div class=block>
 <h2>🧆 Saggy Dad of the week</h2>
 <p>Serving: Main (Primary Caregiver)<br>
 Title: Baghdad Saggy Dad<br>
@@ -125,9 +120,10 @@ Serving Instructions: With Explosive Hot Sauce</p>
 6️⃣ Joel Xavier — 293 pts (−3)<br>
 7️⃣ Michael Ball — 257 pts (−36)</p>
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/bfd9eb77-adc5-4f64-a15e-9feece1d6d00" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/bfd9eb77-adc5-4f64-a15e-9feece1d6d00" /><br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/24e7221c-08ec-4dfb-9928-fa26ab7b8a30" />
-    </div>
+
+</div>
 
 <div class=block>
 <h2>📅 Next Transfer Deadline</h2>
