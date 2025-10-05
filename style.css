@@ -2,9 +2,12 @@ body,
 header {
   background: #1e0021;
 }
+
 .block {
   background: #541e5d;
+  border-radius: 25px;
 }
+
 p,
 h1,
 h2,
@@ -15,10 +18,12 @@ marquee {
   padding: 10px;
   /* font-family: Helvetica, Arial, sans-serif; */
 }
+
 img {
   margin: auto;
   display: block;
 }
+
 /* ticker {
   color: #ffffff;
 } */
