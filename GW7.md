@@ -8,11 +8,9 @@
     <img width="400" height="166" alt="logo1" src="https://github.com/user-attachments/assets/907c65a9-ac11-4424-9c6e-ba47f4a33c57" />
 </header>
 
-<h1>📊 Gameweek 7</h1>
-
-<h2>📰 Team Headlines</h2>
-
 <div class=block>
+<h1>📊 Gameweek 7</h1>
+<h2>📰 Team Headlines</h2>
 <h3>1️⃣ Simon Edwards - Chuna believe it</h3>
 <img height="300" alt="manager-simon1" src="https://github.com/user-attachments/assets/c73b224e-8e13-495a-affd-576c05971041" />
 <p>GW points: (avg: )<br>
@@ -94,7 +92,7 @@
     transfers in: Saka, Doku<br>
     transfers out: Caicedo, Foden</p>
 <p></p>
-
+</div>
 <h2>📈 Points Tracker</h2>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/bfd9eb77-adc5-4f64-a15e-9feece1d6d00" />
 
@@ -129,6 +127,5 @@
 Saggy Dads a big hit across India | Ball fights "Aldi Ancelotti" accusations | Desmond spotted outside SeaWorld | Neil never forgotten ❤️ | Reports of men get stared at for wearing an Alestorm tshirt | Pending charges against Man City: 115 | VPN use skyrockets as users drive traffic to OnlyKids | racist google images generated: 1 | Worrying increase in hot asian scams in UAE | Amount of strikers rejecting Newcastle: 12 | Sinks "perfectly suitable for vomit" claims man from Sheffield | Last Amorim formation change: 11/09/2022 |
 </marquee>
 
-</main>
 </body>
 </html>
