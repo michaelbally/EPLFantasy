@@ -14,7 +14,7 @@
 </div>
 
 <div class=block>
-<h3>1️⃣ Simon Edwards - Chuna believe it</h3>
+<h3>1️⃣ Simon Edwards - Chuna Believe It</h3>
 <img height="300" alt="manager-simon1" src="https://github.com/user-attachments/assets/c73b224e-8e13-495a-affd-576c05971041" />
 <p>GW points: 81 (avg: 57.7)<br>
     avg rank: 3.6<br>
@@ -98,13 +98,13 @@
 </div>
 
 <div class=block>
-<h3>🏆 Manager of the week</h3>
-<p>Daniel Dring, Joel Xavier: 83 pts</p>
+<h3>🏆 Manager of the Week</h3>
+<p>Daniel Dring & Joel Xavier: 83 pts</p>
     </div>
 
 <div class=block>
-<h3>🧆 Saggy Dad of the week</h3>
-<p>Serving: Main (Primary Caregiver)<br>
+<h3>🧆 Saggy Dad of the Week</h3>
+<p>Course: Main (Primary Caregiver)<br>
 Title: Baghdad Saggy Dad<br>
 Serving Instructions: With Explosive Hot Sauce</p>
     <img width="300" alt="baghdad" src="https://github.com/user-attachments/assets/976e5da0-a641-4dca-a1d8-464147ef5924" />
