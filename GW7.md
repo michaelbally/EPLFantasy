@@ -22,7 +22,7 @@
     chips used: triple captain</p>
     <p>transfers in: -<br>
     transfers out: -</p>
-    <p></p>
+    <p>Still top of the league and behaving like a man who’s just been offered a Ted Talk, Simon Edwards spent the week conducting “leadership seminars” in the dressing room — complete with PowerPoint slides titled “Synergy, Strategy, and Screaming at Full-Backs.” Players say the sessions were half LinkedIn post, half Fergie hairdryer, with motivational quotes from both Sir Alex and Iron Maiden lyrics. After his 81-point masterclass, Edwards was spotted posting: “Proud to announce my continued success leading Chuna Believe It to Q3 growth. #Leadership #HardWork #BassSolos.”</p>
     </div>
 
 <div class=block>
@@ -34,7 +34,7 @@
     chips used: wildcard<br></p>
     <p>transfers in: Burn, Fernández, Haaland, Mamardashvili<br>
     transfers out: Livramento, Salah, Strand Larsen, Dúbravka</p>
-    <p></p>
+    <p>The Toon Army disco machine was in full swing as Dring matched the week’s joint top score with 83 points. To celebrate, he turned the training ground into St. James’ Park meets Studio 54 — smoke machines, disco balls, and a remixed “Local Hero” blasting until sunrise. Players trained in platform shoes and flares, with Eddie Howe himself allegedly dropping by to judge the dance-offs. Dring strutted into his press conference declaring: “Some people play their Wildcard. I unleashed mine.”</p>
     </div>
 
 <div class=block>
@@ -46,7 +46,7 @@
     chips used: wildcard<br></p>
     <p>transfers in: -<br>
     transfers out: -</p>
-    <p></p>
+    <p>76 points, but Stanley’s squad barely touched a football this week — because he dragged them to a full-blown hippy festival. Training consisted of dribbling drills around tie-dye tents, while midfielders were forced to “find their aura” before passing exercises. At one point, the physio disappeared into a drum circle and hasn’t been seen since. Stanley’s presser was delivered barefoot, incense burning, as he declared: “We don’t train formations… we train vibes.”</p>
     </div>
 
 <div class=block>
@@ -58,7 +58,7 @@
     chips used: -<br>></p>
     <p>transfers in: Senesi, Semenyo<br>
     transfers out: Wan-Bissaka, Wirtz</p>
-    <p></p>
+    <p>80 points and Kane doubled down on his Dubai lifestyle — holding training on camelback in the desert. Reports claim defenders were made to practice headers while perched on saddles, while forwards raced camels as “fitness work.” The spectacle ended with Kane sitting cross-legged in flowing robes, telling the press: “The moat is deeper than sand, the fortress taller than dunes. And yes… even the camels defend better than half this league.”</p>
     </div>
 
 <div class=block>
@@ -70,7 +70,7 @@
     chips used: wildcard<br></p>
     <p>transfers in: van de Ven<br>
     transfers out: Dorgu</p>
-    <p></p>
+    <p>Joint-highest haul of 83 points, and Xavier celebrated like only he could — by whisking the squad away on a “team-bonding field trip” to Asia. Half the squad ended up lost in a Korean night market trying to grill their own dinner, while others were roped into a bizarre “cook-off” against local BBQ masters. Training drills were replaced with chopstick technique lessons and karaoke battles. Xavier, beaming in the press conference, announced: “Some managers talk tactics — I talk marinades. This week, the secret sauce was victory.”</p>
     </div>
 
 <div class=block>
@@ -82,7 +82,7 @@
     chips used: -<br></p>
     <p>transfers in: Guéhi<br>
     transfers out: Livramento</p>
-    <p></p>
+    <p>It was a horror show for Desmond this week with just 51 points — the lowest haul in the league. Sources say the squad spent more time arguing about which shark documentary to watch on the team bus than actually preparing for matches. Training reportedly descended into chaos after Desmond insisted on blasting slasher movie soundtracks, leaving defenders too spooked to mark properly. His presser was bleak: “Look, every horror has its quiet act before the bloodbath. I’ll be back.” But rival managers whispered that the only thing being butchered right now is his league form.</p>
     </div>
 
 <div class=block>
@@ -94,7 +94,7 @@
     chips used: wildcard<br></p>
     <p>transfers in: Saka, Doku<br>
     transfers out: Caicedo, Foden</p>
-<p></p>
+<p>63 points, bottom of the pile, but Ball’s bargain bunker is alive with conspiracy. Players received Aldi vouchers as “performance bonuses.” Mid-session, Ball stopped drills to rant about “corruption at the very heart of FPL HQ”. At his presser, Ball waved a packet of knock-off biscuits and raged: “The algorithm is corrupt! VAR is corrupt! Even Aldi’s Special Buys are corrupt!” Journalists weren’t sure if he’d lost the plot or found it in the discount aisle.</p>
 </div>
 
 <div class=block>
@@ -112,16 +112,17 @@ Serving Instructions: With Explosive Hot Sauce</p>
 
 <div class=block>
 <h3>📊 Standings Recap</h3>
-<p>1️⃣ Simon Edwards — 323 pts<br>
-2️⃣ Daniel Dring — 307 pts (−16)<br>
-3️⃣ John Stanley — 306 pts (−1)<br>
-4️⃣ Jonathan Kane — 300 pts (−6)<br>
-5️⃣ Michael Desmond — 296 pts (−4)<br>
-6️⃣ Joel Xavier — 293 pts (−3)<br>
-7️⃣ Michael Ball — 257 pts (−36)</p>
+<p>1️⃣ Simon Edwards — 404 pts<br>
+2️⃣ Daniel Dring — 390 pts (−14)<br>
+3️⃣ John Stanley — 382 pts (−8)<br>
+4️⃣ Jonathan Kane — 376 pts (−6)<br>
+4️⃣ Joel Xavier — 376 pts (0)<br>
+6️⃣ Michael Desmond — 347 pts (−29)<br>
+7️⃣ Michael Ball — 320 pts (−27)</p>
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/8f09cae0-76c1-4257-8fb7-6cb7e82c2994" /><br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/aef58927-8c47-4227-93b4-cebd29065b3b" /><br>
+
 </div>
 
 <div class=block>

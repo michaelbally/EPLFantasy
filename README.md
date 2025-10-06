@@ -1,3 +1,4 @@
 - [Gameweek 4](GW4.md)
 - [Gameweek 5](GW5.md)
 - [Gameweek 6](GW6.md)
+- [Gameweek 7](GW7.md)
