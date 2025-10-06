@@ -62,7 +62,7 @@
     </div>
 
 <div class=block>
-<h3>6️⃣ Joel Xavier - K-BBQ FC</h3>
+<h3>4️⃣ Joel Xavier - K-BBQ FC</h3>
 <img height="300" alt="manager-joel3" src="https://github.com/user-attachments/assets/93e04e86-32d0-4fc4-94ca-33ceb0144f94" />
 <p>GW points: 83 (avg: 56)<br>
     avg rank: 5<br>
@@ -74,7 +74,7 @@
     </div>
 
 <div class=block>
-<h3>5️⃣ Michael Desmond - Cunha Get Any Worse</h3>
+<h3>6️⃣ Michael Desmond - Cunha Get Any Worse</h3>
 <img height="300" alt="manager-dez1" src="https://github.com/user-attachments/assets/1820eb06-dcd9-4fbf-a43b-857dba782719" />
 <p>GW points: 51 (avg: 51.3)<br>
     avg rank: 4.9<br>
