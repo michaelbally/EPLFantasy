@@ -107,6 +107,7 @@
 <p>Serving: Main (Primary Caregiver)<br>
 Title: Baghdad Saggy Dad<br>
 Serving Instructions: With Explosive Hot Sauce</p>
+    <img width="300" alt="baghdad" src="https://github.com/user-attachments/assets/976e5da0-a641-4dca-a1d8-464147ef5924" />
     </div>
 
 <div class=block>
