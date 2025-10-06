@@ -107,7 +107,7 @@
 <p>Course: Main (Primary Caregiver)<br>
 Title: Baghdad Saggy Dad<br>
 Serving Instructions: With Explosive Hot Sauce</p>
-    <img width="300" alt="baghdad" src="https://github.com/user-attachments/assets/976e5da0-a641-4dca-a1d8-464147ef5924" />
+    <img width="300" alt="baghdad" src="https://github.com/user-attachments/assets/976e5da0-a641-4dca-a1d8-464147ef5924" /><br>
     </div>
 
 <div class=block>
@@ -120,9 +120,8 @@ Serving Instructions: With Explosive Hot Sauce</p>
 6️⃣ Joel Xavier — 293 pts (−3)<br>
 7️⃣ Michael Ball — 257 pts (−36)</p>
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/8f09cae0-76c1-4257-8fb7-6cb7e82c2994" />
-<br>
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/aef58927-8c47-4227-93b4-cebd29065b3b" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8f09cae0-76c1-4257-8fb7-6cb7e82c2994" /><br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/aef58927-8c47-4227-93b4-cebd29065b3b" /><br>
 </div>
 
 <div class=block>
